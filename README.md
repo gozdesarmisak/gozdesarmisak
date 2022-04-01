@@ -2,7 +2,7 @@
 
 ### I'm Gözde Sarmısak 
 
-- 🎓 I'm currently working SinerjiBT Information Technology.
+- 🎓 I'm currently working at SinerjiBT Information Technology.
 - 🔭 I’m currently working on Cyber Security Solutions.          
 - 🌱 I’m currently learning Cyber Security Topics, SQL and Pyhton.
 

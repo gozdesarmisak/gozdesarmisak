@@ -29,13 +29,6 @@
   ![Arena](https://img.shields.io/badge/-Arena-333333?style=flat&logo=arena)
 
  
-
-   <img align="right" alt="Coding" width="350" height="250" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-  
-
-<br> 
-<image align="center" src="https://github-readme-stats.vercel.app/api?username=gozdesarmisak&theme=dracula"> 
-<br> 
   
 
 ### 📫 &nbsp;Contact with Me

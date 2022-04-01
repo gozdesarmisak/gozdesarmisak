@@ -1,12 +1,11 @@
 ![Profile views](https://komarev.com/ghpvc/?username=gozdesarmisak&color=blue) 
 
-### I'm Gözde Sarmısak <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width ="50px">
+### I'm Gözde Sarmısak 
 
 - 🎓 I'm currently studying at Doğuş University Industrial Engineering.
 - 🔭 I’m currently working on Data Science also Machine Learning with WEKA.          
 - 🌱 I’m currently learning Machine Learning, Deep Learning and Databases in Pyhton.
 
-<a href="https://github.com/sponsors/M0nica"><img align="right" width="120" height="120" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a> </h1>
                              
  
 ### 🛠 &nbsp;Tech Stack

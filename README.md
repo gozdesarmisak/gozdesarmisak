@@ -2,9 +2,9 @@
 
 ### I'm Gözde Sarmısak 
 
-- 🎓 I'm currently studying at Doğuş University Industrial Engineering.
-- 🔭 I’m currently working on Data Science also Machine Learning with WEKA.          
-- 🌱 I’m currently learning Machine Learning, Deep Learning and Databases in Pyhton.
+- 🎓 I'm currently working SinerjiBT Information Technology.
+- 🔭 I’m currently working on Cyber Security Solutions.          
+- 🌱 I’m currently learning Cyber Security Topics, SQL and Pyhton.
 
                              
  
